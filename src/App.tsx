@@ -204,6 +204,7 @@ function App() {
           ))}
         </div>
       </section> */}
+
       <MUIContainer maxWidth='xs'>
         <Record />
       </MUIContainer>
